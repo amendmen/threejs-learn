@@ -20,6 +20,7 @@ gui.addColor(parametrs, 'color').onChange(() => {
 });
 
 gui.add(parametrs, 'spin');
+
 /**
  * Base
  */
